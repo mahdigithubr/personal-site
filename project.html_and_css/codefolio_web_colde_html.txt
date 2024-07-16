@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans&family=Montserrat&family=Satisfy&display=swap" rel="stylesheet">
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="project-3mobile.css">
+    <link rel="stylesheet" href="project-3dekstop.css" media="screen and (min-width:992px)">
+    <title>Mahdi Al Hasan </title>
+</head>
+<body>
+    <!-- navbar start here -->
+    <div class="navbar">
+        <div class="nav-logo col-2"> 
+            <img src="imges/Screenshot 2023-12-27 174148.png" alt="logo"> 
+         
+        </div>
+        <div class="nav-heading col-4">
+            <h1>Mahdi Al Hasan</h1>
+        </div>
+
+        <div class="nav-menu col-6">
+            <a href="#">Home</a>
+            <a href="#about-me-id">About me</a>
+            <a href="#skills-id">Skill</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </div>
+    <!-- navbar ends here -->
+
+    <!--profile start here -->
+    <div class="profile">
+       <img src="imges/4102326_cloud_sun_sunny_weather_icon.png" class="top_weather_icon" alt="weather_icon">
+
+       <div class="profile-desc">
+        <h1>I am a  programmer<br/> & <br/> Web developer </h1>
+        <p>Hi my name is Mahdi Al Hasan.  I am coming for six month program and want to learn, 
+            I want to be a great program and developer inshallah.</p>
+
+       </div>
+       <img  class="bottom_weather_icon"src="imges/4102326_cloud_sun_sunny_weather_icon.png" alt="bottom-weather-icon">
+
+    </div>
+    <!--profile ends here -->
+
+    <!--about me start here-->
+    <div class="about-me" id="about-me-id">
+        <h2>About Me</h2>
+        <hr class="dotted-hr">
+        <div class="aboutme-image col-6" >
+            <img src="imges/414552943_1470237183923793_9027538918917081400_n-removebg-preview.png" alt="my-photo">
+        </div>
+        <div class="aboutme-desc  col-6">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis laboriosam eve</p>
+            <p> amet, consectetur adipisicing elit. Corporis laboriosam eve</p>
+            <hr class="aboutme-hr">
+            <p>Name: Mahdi Al Hasan</p>
+            <hr class="aboutme-hr">
+            <p>Address:sylhet Gashitula Lamapara Bangladesh </p>
+            <hr class="aboutme-hr">
+            <p>Email <a href="mailto:mahdialhasan2050@gmail.com">mahdialhasan2050@gmail.com</a></p>
+            <hr class="aboutme-hr">
+            <p>Phone: <a href="tel:+01955935176"></a> 01955935176</p>
+            <hr class="aboutme-hr">
+            <p>Website: <a href="https://www.w3schools.com" target="_blank">www.w3schools.com</a></p>
+            <hr class="aboutme-hr">
+
+            <p>
+                <a href="#"><button class="cv-button">Download CV</button></a>
+            </p>
+        </div>
+
+    </div>
+    <!--about me end here-->
+
+    <!--Professional experience start here -->
+    <div class="professional-experience">
+
+        <div class="work-experience col-4">
+
+            <div class="card">
+
+                <div class="card-icon">
+                 <img class="rounded-img" src="imges/suitcase.png" alt="no">
+                </div>
+
+                <div class="card-title">
+                    <h2>WORK EXPERIENCE </h2>
+                </div>
+
+                <div class="card-decs">
+                    <ol>
+                        <li>
+                            <strong>Lorem ipsum dolor sit amet Lorem ipsum dolor sit </strong><br>
+                            01/05/2016-01/08/2017<br>
+                            Shurjo muki b. k. & hgh school<br>
+                            Lorem ipsum dolor sit amet consectetur.<br>
+                          
+                        </li>
+                        <hr>
+
+                        <li>
+                            <strong>Lorem ipsum dolor sit amet Lorem ipsum dolor sit </strong><br>
+                            01/05/2016-01/08/2017<br>
+                            Shurjo muki b. k. & hgh school<br>
+                            Lorem ipsum dolor sit amet consectetur.
+                            Lorem ipsum dolor sit amet consectetur.<br>
+                        </li>
+                        <hr>
+                        <li>
+                            <strong>Lorem ipsum dolor sit amet Lorem ipsum dolor sit </strong><br>
+                            01/05/2016-01/08/2017<br>
+                            Shurjo muki b. k. & hgh school<br>
+                            Lorem ipsum dolor sit amet consectetur.
+                            Lorem ipsum dolor sit amet consectetur.<br>
+                        </li>
+                        <hr>
+                        <li>
+                            <strong>Lorem ipsum dolor sit amet Lorem ipsum dolor sit </strong><br>
+                            01/05/2016-01/08/2017<br>
+                            Shurjo muki b. k. & hgh school<br>
+                            Lorem ipsum dolor sit amet consectetur.<br>
+                            <a href="https://www.youtube.com/watch?v=k1oi5iEPe7M&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO" target="blank">visit anisul islam youtube chanel </a>
+                        </li>
+
+
+
+
+                    </ol>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="education-experience col-4">
+            <div class="card">
+
+                <div class="card-icon">
+                 <img class="rounded-img" src="imges/stack-books_5832416.png" alt="no">
+                </div>
+
+                <div class="card-title">
+                    <h2>EDUCATION AND TRAINING  </h2>
+                </div>
+
+                <div class="card-decs">
+                    <ol>
+                        <li>
+                            <strong>Lorem ipsum dolor sit amet Lorem ipsum dolor sit </strong><br>
+                            01/05/2016-01/08/2017<br>
+                            Shurjo muki b. k. & hgh school<br>
+                            Lorem ipsum dolor sit amet consectetur.<br>
+                          
+                        </li>
+                        <hr>
+
+                        <li>
+                            <strong>Lorem ipsum dolor sit amet Lorem ipsum dolor sit </strong><br>
+                            01/05/2016-01/08/2017<br>
+                            Shurjo muki b. k. & hgh school<br>
+                            Lorem ipsum dolor sit amet consectetur.<br>
+                            Lorem ipsum dolor sit amet consectetur.<br>
+
+                        </li>
+                        <hr>
+                        <li>
+                            <strong>Lorem ipsum dolor sit amet Lorem ipsum dolor sit </strong><br>
+                            01/05/2016-01/08/2017<br>
+                            Shurjo muki b. k. & hgh school<br>
+                            Lorem ipsum dolor sit amet consectetur.<br>
+                            Lorem ipsum dolor sit amet consectetur.<br>
+
+                        </li>
+                        <hr>
+                        <li>
+                            <strong>Lorem ipsum dolor sit amet Lorem ipsum dolor sit </strong><br>
+                            01/05/2016-01/08/2017<br>
+                            Shurjo muki b. k. & hgh school<br>
+                            Lorem ipsum dolor sit amet consectetur.<br>
+                            <a href="https://www.youtube.com/watch?v=k1oi5iEPe7M&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO" target="blank">visit anisul islam youtube chanel </a>
+                        </li>
+
+                    </ol>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="skills col-4" id="skills-id">
+
+            <div class="card">
+
+                <div class="card-icon">
+                 <img class="rounded-img" src="imges/skill_3135790.png" alt="no">
+                </div>
+
+                <div class="card-title">
+                    <h2>SKILLS </h2>
+                </div>
+
+                <div class="card-decs">
+                    <div class="skills-container">
+                        <ul>
+                            <li class="html">HTML</li>
+                            <li class="css">CSS</li>
+                            <li class="bootstrap">Bootstrap</li>
+                            <li class="js">Javascript</li>
+                            <li class="jquery">JQuery</li>
+                            <li class="node">Node.js</li>
+                            <li class="express">Express.js</li>
+                            <li class="git">GitHub</li>
+                            <li class="react">React.js</li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+     <!--Professional experience ends here -->
+
+     <!--achievement-contact starts from here-->
+     <div class="achievement-contact" id="achievement">
+
+        <div class="achievement col-4">
+            <h2>ACHIEVEMENT</h2>
+            <hr class="dotted-hr">
+        <p>1.100% Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur.</p>
+        <p>2. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum dolor, sit </p>
+        <p>3. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, explicabo. Voluptate  </p>
+        <p>4. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est facilis nisi cum.</p>
+    
+        </div>
+
+        <div class="contact col-4" id="contact">
+             <h2>CONTACT ME</h2>
+             <hr class="dotted-hr">
+
+             <form action="mailto:mahidalhasan2050@gmail.com" method="post" enctype="text/plain">
+
+                <p><input type="text" placeholder="Your Name" name="name"></p>
+                <p><input type="email" placeholder="Your Email" name="email"></p>
+                <textarea name="massage" id="" cols="30" rows="10" placeholder="Your massage here"></textarea>
+                <button type="submit" >SEND</button>
+                <button type="reset" >RESET</button>
+            
+            </form>
+        </div>
+
+        <div class="contact-links col-4">
+            <h2>MORE WAY TO CONTACT</h2>
+            <hr class="dotted-hr">
+            <div class="media-button">
+                <button  class="btn" class="request-callback"  onclick="window.open('https://www.youtube.com/watch?v=_7Z_BWmKNgk&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO')"> <img class="youtube-btn" src="imges/youtube_1384060.png" alt=""> </button>
+                <button  class="btn" class="request-callback"  onclick="window.open('https://www.youtube.com/watch?v=_7Z_BWmKNgk&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO')"> <img class="youtube-btn" src="imges/facebook_5968764.png" alt=""> </button>
+                <button  class="btn" class="request-callback"  onclick="window.open('https://www.youtube.com/watch?v=_7Z_BWmKNgk&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO')"> <img class="youtube-btn" src="imges/instagram_2111463.png" alt=""> </button>
+                <button  class="btn" class="request-callback"  onclick="window.open('https://www.youtube.com/watch?v=_7Z_BWmKNgk&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO')"> <img class="youtube-btn" src="imges/github_733609.png" alt=""> </button>
+                 
+             
+            </div>
+        </div>
+     </div>
+
+     <!--achievement-contact ends from here-->
+
+     <!-- footer start from here  -->
+
+     <div class="footer">
+        <div class="footer-menu col-6">
+            <a href="#">Home</a>
+            <a href="#about-me-id">About me</a>
+            <a href="#skills-id">Skill</a>
+            <a href="#contact">Contact</a>
+        </div>
+        <div class="footer-decs col-6">
+            &copy: Mahdi 2024. Developed with <span style="font-size: 2rem; ">🧡</span> by Mahdi;
+            
+        </div>
+     </div>
+     <!-- footer ends from here  -->
